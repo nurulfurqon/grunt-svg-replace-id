@@ -1,0 +1,21 @@
+{
+  "name": "svg-replace-id",
+  "version": "1.0.0",
+  "description": "Tools for replace Id to Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grunt",
+    "javascript"
+  ],
+  "author": "nurul.furqon@bukalapak.com",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.3"
+  },
+  "devDependencies": {
+    "grunt-text-replace": "^0.4.0"
+  }
+}
